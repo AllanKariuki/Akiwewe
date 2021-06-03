@@ -1,2 +1,2 @@
 # Akiwewe
-e-commerce website
+This is an example a fully functioning e-commerce website
